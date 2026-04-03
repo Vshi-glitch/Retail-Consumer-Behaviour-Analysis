@@ -1,0 +1,2 @@
+Started building data analytics portfolio project.
+Will include Python, SQL, and Power BI work.
